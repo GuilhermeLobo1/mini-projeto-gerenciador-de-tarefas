@@ -1,0 +1,13 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "projeto gereção tech",
+  "type": "commonjs",
+  "main": "projeto.js",
+  "scripts": {
+    "api": "json-server --watch api.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
