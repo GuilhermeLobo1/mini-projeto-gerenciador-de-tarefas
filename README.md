@@ -18,12 +18,12 @@ Mini projeto prático desenvolvido durante a formação **Geração Tech**.
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+git clone (https://github.com/GuilhermeLobo1/mini-projeto-gerenciador-de-tarefas.git)
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd projeto
+cd mini-projeto-gerenciador-de-tarefas
 ```
 
 3. Instale as dependências:
