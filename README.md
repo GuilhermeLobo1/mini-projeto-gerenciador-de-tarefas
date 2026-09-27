@@ -18,7 +18,7 @@ Mini projeto prático desenvolvido durante a formação **Geração Tech**.
 
 1. Clone o repositório:
 ```bash
-git clone (https://github.com/GuilhermeLobo1/mini-projeto-gerenciador-de-tarefas.git)
+git clone https://github.com/GuilhermeLobo1/mini-projeto-gerenciador-de-tarefas.git
 ```
 
 2. Acesse a pasta do projeto:
